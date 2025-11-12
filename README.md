@@ -1,8 +1,8 @@
 <div align="center">
   <img src=".github/resources/icon.png" height="180px" width="auto" alt="romm logo">
   <br/>
-![Platform](https://img.shields.io/badge/platform-Android-green.svg)
-![Language](https://img.shields.io/badge/language-Kotlin-purple.svg)
+[![Platform](https://img.shields.io/badge/platform-Android-green.svg)](#)
+[![Language](https://img.shields.io/badge/language-Kotlin-purple.svg)](#)
 </div>
 
 # AYASpaceXML
