@@ -1,9 +1,11 @@
-![AYASpaceXML Icon](.github/resources/icon.png)
-
-# AYASpaceXML
-
+<div align="center">
+  <img src=".github/resources/icon.png" height="180px" width="auto" alt="romm logo">
+  <br/>
 ![Platform](https://img.shields.io/badge/platform-Android-green.svg)
 ![Language](https://img.shields.io/badge/language-Kotlin-purple.svg)
+</div>
+
+# AYASpaceXML
 
 Copy ES-DE 'gamelist.xml' files and media assets ('image', 'thumbnail') to enable full AYASpace compatibility.
 
