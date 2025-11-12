@@ -1,3 +1,5 @@
+![AYASpaceXML Icon](.github/resources/icon.png)
+
 # AYASpaceXML
 
 ![Platform](https://img.shields.io/badge/platform-Android-green.svg)
